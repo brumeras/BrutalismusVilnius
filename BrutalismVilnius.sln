@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrutalismVilnius", "BrutalismVilnius\BrutalismVilnius.csproj", "{43864A6E-1D13-40D6-84E9-47527258D4B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroBrut", "EuroBrut\EuroBrut.csproj", "{3ED0D41A-0E48-4D58-A799-AB63E22EE5F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{43864A6E-1D13-40D6-84E9-47527258D4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43864A6E-1D13-40D6-84E9-47527258D4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43864A6E-1D13-40D6-84E9-47527258D4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43864A6E-1D13-40D6-84E9-47527258D4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED0D41A-0E48-4D58-A799-AB63E22EE5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED0D41A-0E48-4D58-A799-AB63E22EE5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED0D41A-0E48-4D58-A799-AB63E22EE5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED0D41A-0E48-4D58-A799-AB63E22EE5F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
